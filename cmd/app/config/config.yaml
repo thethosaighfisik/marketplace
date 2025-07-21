@@ -1,0 +1,15 @@
+env: prod
+
+httpserver:
+  address: 0.0.0.0:8090
+
+repository:
+  host: db
+  port: 5432
+  name: marketplace
+  user: postgres
+  password: Forgetto2011
+  
+
+
+ 
