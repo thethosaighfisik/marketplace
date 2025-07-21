@@ -1,2 +1,3 @@
-cmd/app/config
+cmd/app/config/config.go
+cmd/app/config/config.yaml
 .env
